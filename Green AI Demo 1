@@ -1,1 +1,10 @@
-
+<script>
+  window.chatbaseConfig = {
+    chatbotId: "-fMc-2CCSJMcfNTQnDWKT",
+  }
+</script>
+<script
+  src="https://www.chatbase.co/embed.min.js"
+  id="-fMc-2CCSJMcfNTQnDWKT"
+  defer>
+</script>
